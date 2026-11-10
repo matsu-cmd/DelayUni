@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\Development\vst3sdk\public.sdk\samples\vst-utilities\moduleinfotool\source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Development\vst3sdk\public.sdk\source\vst\moduleinfo\moduleinfocreator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Development\vst3sdk\public.sdk\source\vst\moduleinfo\moduleinfoparser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Development\vst3sdk\public.sdk\source\vst\hosting\module_win32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\Development\vst3sdk\public.sdk\source\vst\moduleinfo\json.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Development\vst3sdk\public.sdk\source\vst\moduleinfo\jsoncxx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Development\vst3sdk\public.sdk\source\vst\moduleinfo\moduleinfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Development\vst3sdk\public.sdk\source\vst\moduleinfo\moduleinfocreator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Development\vst3sdk\public.sdk\source\vst\moduleinfo\moduleinfoparser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\Development\vst3sdk\public.sdk\samples\vst-utilities\moduleinfotool\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{62FB0709-4BB2-3082-A3FC-8060BDFDB83F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1E15FF3F-7A43-331C-8783-B133011F3D00}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
